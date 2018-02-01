@@ -1,0 +1,39 @@
+/* custom overrides */
+
+/* navigation */
+.navbar-light.header-transparent.bg-inverse {
+    background: #fff !important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #336699 !important;
+    font-size: 1.2em;
+}
+.navbar-light.header-transparent.bg-inverse.sticky-header {
+    background: #fff !important;
+}
+.navbar-nav .nav-link {
+    text-transform: none;
+}
+.nav-link:hover {
+    color: #336699 !important;
+}
+.nav-link:focus {
+    color: #336699 !important;
+}
+.navbar {
+    padding: 0rem 0rem; 
+}
+.navbar-light .navbar-toggler {
+    margin-top: 10px;
+}
+/* hero */
+.hero {  
+    height: 85%;
+}
+/* container content */
+@media (min-width: 1200px){
+    .container-content {
+        width: 100%;
+        max-width: 100%;
+    }
+}
