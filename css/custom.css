@@ -33,6 +33,12 @@
 .hero h1 {
     font-size: 3rem;
 }
+.section-title h4:after {
+    content: "";
+    width: 0px;
+    height: 0px;
+}
+/* footer */
 .back-to-top {
     background: #336699;
 }
