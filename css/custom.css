@@ -38,6 +38,10 @@
     width: 0px;
     height: 0px;
 }
+a {
+    color: #336699;
+    text-decoration: none;
+}
 .bg-primary {
     background: #336699 !important;
     border-color: #336699;
