@@ -30,6 +30,9 @@
 .hero {  
     height: 85%;
 }
+.back-to-top {
+    background: #336699;
+}
 /* container content */
 @media (min-width: 1200px){
     .container-content {
