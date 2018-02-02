@@ -38,6 +38,9 @@
     width: 0px;
     height: 0px;
 }
+h1, h2, h3, h4, h5, h6 {
+    font-family: Exo, sans-serif;
+}
 a {
     color: #336699;
     text-decoration: none;
