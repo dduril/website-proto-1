@@ -38,6 +38,10 @@
     width: 0px;
     height: 0px;
 }
+.bg-primary {
+    background: #336699 !important;
+    border-color: #336699;
+}
 /* footer */
 .back-to-top {
     background: #336699;
