@@ -30,6 +30,9 @@
 .hero {  
     height: 85%;
 }
+.hero h1 {
+    font-size: 3rem;
+}
 .back-to-top {
     background: #336699;
 }
