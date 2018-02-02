@@ -45,6 +45,17 @@ a {
     color: #336699;
     text-decoration: none;
 }
+.p-bio {
+    font-size: 1.1rem;
+}
+.text-medium {
+    font-size: 18px;
+    line-height: 22px;
+}
+.fun-facts p {
+    color: #000;
+    opacity: .8;
+}
 .bg-primary {
     background: #336699 !important;
     border-color: #336699;
