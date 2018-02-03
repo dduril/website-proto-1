@@ -48,6 +48,9 @@ a {
     color: #336699;
     text-decoration: none;
 }
+.a-white {
+    color: #fff;
+}
 .p-bio {
     font-size: 1.1rem;
 }
@@ -91,10 +94,10 @@ a {
         margin-right: auto;
         width: 50%;
     }
-    .img-80 {
+    .img-77 {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 80%;
+        width: 77%;
     }
 }
