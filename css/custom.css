@@ -38,6 +38,9 @@
     width: 0px;
     height: 0px;
 }
+.section-title h4 {
+    text-transform:none;
+}
 h1, h2, h3, h4, h5, h6 {
     font-family: Exo, sans-serif;
 }
@@ -48,9 +51,18 @@ a {
 .p-bio {
     font-size: 1.1rem;
 }
+.text16 {
+    font-size: 1.1rem;
+}
+.text20{
+    font-size: 1.3rem;
+}
 .text-medium {
     font-size: 18px;
     line-height: 22px;
+}
+.person-content span {
+    font-size: 16px;
 }
 .fun-facts p {
     color: #000;
